@@ -14,7 +14,11 @@ var kyleHeight = 72;
 var kyleHeightCM = (kyleHeight * 2.54 / 100);
 // Calculate Max HR
 
+<<<<<<< HEAD
 var maxHR = 400 - kyleAge;
+=======
+var maxHR = 300 - kyleAge;
+>>>>>>> new-branch
 
 // Calculate BMI
 
